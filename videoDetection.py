@@ -86,3 +86,4 @@ while(1):
 #print(str(len(faces)))
 cv2.destroyAllWindows()
 video.release()
+
